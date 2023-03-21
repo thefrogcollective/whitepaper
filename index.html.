@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>White Paper TFC</title>
+<title>TFC White Paper</title>
+<style>
+    body {
+        margin: 0;
+    }
+    iframe {
+        border: none;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+</style>
 </head>
 <body>
-    <embed src="White-Paper-TFC.pdf" type="application/pdf" width="100%" height="100%" />
+    <iframe src="White-Paper-TFC.pdf"></iframe>
 </body>
 </html>
